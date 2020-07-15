@@ -1,4 +1,4 @@
-from satellite_simulations_3Oct2019 import *
+from satellite_simulations import *
 import pickle
 import pandas as pd
 
